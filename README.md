@@ -59,6 +59,14 @@ or launcher. The fatal system list guards the most dangerous ones, but keep a wa
 packages (fastboot, recovery, or a second device) before experimenting. `disabled.txt`
 records exactly what was turned off so a session can be undone.
 
+---
+
+## Bahasa Indonesia
+
+**game-space** adalah aplikasi Android yang mengubah ponsel menjadi perangkat bermain bebas distraksi dengan menonaktifkan semua aplikasi yang tidak ada di whitelist.
+
+---
+
 ## License
 
 MIT
